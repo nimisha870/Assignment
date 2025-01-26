@@ -11,16 +11,16 @@ This is a python package used to implement TOPSIS(Technique of Order Preference 
 ## Installation
 
 ### Build the package:
-
+```
 pip install setuptools
 python setup.py sdist bdist_wheel
-
+```
 ### Install locally:
-
+```
 pip install dist/Topsis_by_Nimisha_Gujral_102203894-1.0.14-py3-none-any.whl
 
 pip install Topsis_by_Nimisha_Gujral_102203894
-
+```
 ## Example:
 
 ## Sample dataset

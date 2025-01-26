@@ -8,7 +8,7 @@ setup(
     version="1.0.14",
     author="Nimisha Gujral",
     author_email="ngujral_be22@thapar.com",
-    url="https://github.com/nimisha870/tposisAssignment",
+    url="https://github.com/nimisha870/Assignment",
     description="A python package for implementing topsis",
     long_description=long_description,
     long_description_content_type="text/markdown",
